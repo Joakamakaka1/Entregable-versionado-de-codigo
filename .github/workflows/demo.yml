@@ -1,0 +1,17 @@
+name: Workflow de Práctica
+
+on:
+  workflow_dispatch:
+    inputs:
+      nombre_apellidos:
+        description: 'Introduce tu nombre y apellidos'
+        required: true
+
+jobs:
+  imprimir_nombre:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar nombre por consola
+        run: echo "Nombre completo: ${{ github.event.inputs.nombre_apellidos }}"
+
+
