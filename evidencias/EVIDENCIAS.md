@@ -22,3 +22,15 @@ Esto garantiza:
 - Seguridad
 - Calidad de código
 
+# Archivo evidencias: Configuración archivo .gitignore
+
+Se ha configurado el archivo .gitignore, donde:
+
+- Se ignoran TODOS los archivos .log (independientemente del directorio) para no ensuciar
+el historial de registros temporales
+
+- Se ignoran los archivos __pychache__/ para evitar subir archivos temporales de Python.
+En un proyecto grande, suelen ser muchos
+
+
+
