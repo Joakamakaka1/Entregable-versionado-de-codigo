@@ -1,0 +1,15 @@
+*   d4ae117 Solucionado errores de conflicto al mergear
+|\  
+| *   c1a59ce Merge pull request #2 from Joakamakaka1/feature/suma
+| |\  
+| | * d5f155f Añadiendo ahora si, la funcion suma a operations.py
+| | * ed31257 Añadiendo suma en operations.py
+| |/  
+* / 7978c0c Añadiendo funcion resta
+|/  
+*   e3a9db3 Merge pull request #1 from Joakamakaka1/feature/gitignore
+|\  
+| * e7627bb Configuración de .gitignore y evidencias
+| * 93c7331 Evidencia proteccion de la rama main
+|/  
+* 28a1ff7 First commit: Creación README.md
