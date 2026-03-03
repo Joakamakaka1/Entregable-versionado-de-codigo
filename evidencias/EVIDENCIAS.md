@@ -32,5 +32,12 @@ el historial de registros temporales
 - Se ignoran los archivos __pychache__/ para evitar subir archivos temporales de Python.
 En un proyecto grande, suelen ser muchos
 
+# Datos evidencias
 
+- https://github.com/Joakamakaka1/Entregable-versionado-de-codigo.git
+- He usado GitHub Flow, trabajando en ramas de caracteristicas (feature/) y fusionandolas mediante un Pull Requests
+hacia main
+- El problema que sucedio fue que en el archivo de operations.py llevaban el mismo metodo y habia conflicto al intentar 
+mergear a la rama main. Se solucionó editando el codigo manualmente.
+- Se activa manualmente (workflow_dispatch), recibe un nombre como parámetro e imprime un saludo por consola
 
