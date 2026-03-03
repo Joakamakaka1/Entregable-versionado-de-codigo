@@ -1,0 +1,36 @@
+2026-03-03T21:56:58.0352769Z Current runner version: '2.331.0'
+2026-03-03T21:56:58.0377402Z ##[group]Runner Image Provisioner
+2026-03-03T21:56:58.0378316Z Hosted Compute Agent
+2026-03-03T21:56:58.0378873Z Version: 20260213.493
+2026-03-03T21:56:58.0379554Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+2026-03-03T21:56:58.0380268Z Build Date: 2026-02-13T00:28:41Z
+2026-03-03T21:56:58.0380891Z Worker ID: {2f92b603-1d41-4ec4-95ec-b76f559c9853}
+2026-03-03T21:56:58.0381659Z Azure Region: northcentralus
+2026-03-03T21:56:58.0382286Z ##[endgroup]
+2026-03-03T21:56:58.0383807Z ##[group]Operating System
+2026-03-03T21:56:58.0384507Z Ubuntu
+2026-03-03T21:56:58.0384950Z 24.04.3
+2026-03-03T21:56:58.0385452Z LTS
+2026-03-03T21:56:58.0385923Z ##[endgroup]
+2026-03-03T21:56:58.0386502Z ##[group]Runner Image
+2026-03-03T21:56:58.0387345Z Image: ubuntu-24.04
+2026-03-03T21:56:58.0387898Z Version: 20260224.36.1
+2026-03-03T21:56:58.0389081Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260224.36/images/ubuntu/Ubuntu2404-Readme.md
+2026-03-03T21:56:58.0390620Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260224.36
+2026-03-03T21:56:58.0391526Z ##[endgroup]
+2026-03-03T21:56:58.0392576Z ##[group]GITHUB_TOKEN Permissions
+2026-03-03T21:56:58.0394982Z Contents: read
+2026-03-03T21:56:58.0395566Z Metadata: read
+2026-03-03T21:56:58.0396231Z Packages: read
+2026-03-03T21:56:58.0397146Z ##[endgroup]
+2026-03-03T21:56:58.0399204Z Secret source: Actions
+2026-03-03T21:56:58.0400101Z Prepare workflow directory
+2026-03-03T21:56:58.0802957Z Prepare all required actions
+2026-03-03T21:56:58.0936030Z Complete job name: imprimir_nombre
+2026-03-03T21:56:58.2022624Z ##[group]Run echo "Nombre completo, Joaquin Castro Salas"
+2026-03-03T21:56:58.2024082Z ;1mecho "Nombre completo, Joaquin Castro Salas"
+2026-03-03T21:56:58.2828849Z shell: /usr/bin/bash -e {0}
+2026-03-03T21:56:58.2829846Z ##[endgroup]
+2026-03-03T21:56:58.3031413Z Nombre completo, Joaquin Castro Salas
+2026-03-03T21:56:58.3133539Z Cleaning up orphan processes
+
